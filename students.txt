@@ -1,1 +1,3 @@
 first name ; last name ; github login
+Zohir ; Belhaouzia ; mrBELLAZIA
+Thomas ; Carrera ; TheVatsu
